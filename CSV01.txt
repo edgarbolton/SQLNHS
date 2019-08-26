@@ -1,0 +1,3 @@
+R,Red
+A,Amber
+G,Green

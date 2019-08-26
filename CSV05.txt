@@ -1,0 +1,4 @@
+]Code], ]Meaning]
+]R], ]Red]
+]A], ]Amber]
+]G], ]Green]
