@@ -1,12 +1,12 @@
 ---------------------------------------------------------------------
 -- SQLNHSOne043a.sql
 ---------------------------------------------------------------------
--- SQL code from  'SQL NHS Part One'  © 2019 edgarbolton@outlook.com
+-- SQL code from  'SQL NHS Part One'  Â© 2019 edgarbolton@outlook.com
 ---------------------------------------------------------------------
 -- Author: E.Bolton
 -- Last updated: 31/08/2019 
 ---------------------------------------------------------------------
--- Deleting data from a table
+-- Inserting 92 rows of data into a table
 ---------------------------------------------------------------------
 INSERT INTO [dbo].[tlkpSpecialties]
 ([Group], [Code], [Description])
