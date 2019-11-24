@@ -11,7 +11,7 @@
 SELECT TOP(100)
 [Column 2] AS [Surname], 
 [Column 3] AS [Initial],
-[Column 4] AS [Sex],
+--[Column 4] AS [Sex],
 
 CASE
     WHEN [Column 4] = 'M' THEN 'Male'
