@@ -11,14 +11,12 @@
 SELECT TOP(100)
 [econcur].[Column 2] AS [Surname], 
 [econcur].[Column 3] AS [Initial],
-[econcur].[Column 4] AS [Sex],
-
+--[econcur].[Column 4] AS [Sex],
 CASE
     WHEN [econcur].[Column 4] = 'M' THEN 'Male'
     WHEN [econcur].[Column 4] = 'F' THEN 'Female'
     ELSE 'Uncertain'
 END AS [Gender],
-
 [econcur].[Column 0] AS [GMC Number],
 [econcur].[Column 5] AS [Main Specialty],
 --[econcur].[Column 7] AS [Organisation Code],
