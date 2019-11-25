@@ -10,7 +10,6 @@
 ---------------------------------------------------------------------
 SELECT TOP (1000) [Surname]
       ,[Initial]
-      ,[Sex]
       ,[Gender]
       ,[GMC Number]
       ,[Main Specialty]
